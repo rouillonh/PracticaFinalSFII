@@ -1,0 +1,2 @@
+La cantidad de palabras adivinadas: 4
+Número total de intentos: 8
